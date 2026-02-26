@@ -1,4 +1,5 @@
-**https://www.tinkercad.com/things/6CTChQAQcHO-simple-keypad-lcd-calculator?sharecode=pxDlu7CT3C9TBhxKYhsEqc0MZt4lLLgczXtBuvM4VGI**
+**https://www.tinkercad.com/things/6CTChQAQcHO-simple-keypad-lcd-calculator?sharecode=pxDlu7CT3C9TBhxKYhsEqc0MZt4lLLgczXtBuvM4VGI**\
+
 This project is a simple and practical calculator built using an Arduino, a 4x4 keypad, and a 16x2 I2C LCD display. It allows the user to enter numbers and perform basic operations like addition, subtraction, multiplication, and division in an easy and interactive way.
 
 As each button is pressed, the input appears instantly on the LCD, so the full expression is shown step by step. When the # button is pressed, 
